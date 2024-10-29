@@ -50,6 +50,8 @@ These instructions will help you set up and run the Travel Trove Frontend on you
 
    
 ## Usage
+switch to the development branch
+
 To start the development server and run the Travel Trove Frontend:
   
 To launch the app in your default web browser, you need to ```npm start```. 
